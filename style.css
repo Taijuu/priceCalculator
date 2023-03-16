@@ -58,3 +58,15 @@ button:active {
     transform: scale(1);
     background-color: #0ba70b;
 }
+
+@media only screen and (max-width: 780px) {
+
+    .title {
+        font-size: 50px;
+    }
+
+    .result {
+        font-size: 15px;
+    }
+
+}
